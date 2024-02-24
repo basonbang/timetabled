@@ -23,16 +23,16 @@ const Calendar = () => {
           <tr> 
               <td className="time">8AM</td>
               <Event event='Fancy Breakfast (10mg fent) 🔥' color='green'/>
-              <td></td>
-              <td></td>
-              <td></td>
+              <Event event='Morning Dose (20mg fent) 💊' color='pink'/>
+              <Event event='Morning Dose (20mg fent) 💊' color='pink'/>
+              <Event event='Overdose 💀' color='red'/>
               <td></td>
               <td></td>
               <td></td>
           </tr>
           <tr> 
               <td className="time">9AM</td>
-              <td></td>
+              <Event event='Walk the dog' color='pink'/>
               <td></td>
               <td></td>
               <td></td>
@@ -43,7 +43,7 @@ const Calendar = () => {
           <tr> 
               <td className="time">10AM</td>
               <td></td>
-              <td></td>
+              <Event event='Greet street cleaning' color='blue'/>
               <td></td>
               <td></td>
               <td></td>
@@ -52,9 +52,9 @@ const Calendar = () => {
           </tr>
           <tr> 
               <td className="time">11AM</td>
-              <td></td>
-              <td></td>
-              <td></td>
+              <Event event='Meeting with Dealer 💰' color='blue'/>
+              <Event event='Meeting with Dealer 💰' color='blue'/>
+              <Event event='Meeting with Dealer 💰' color='blue'/>
               <td></td>
               <td></td>
               <td></td>
@@ -62,7 +62,7 @@ const Calendar = () => {
           </tr>
           <tr> 
               <td className="time">12PM</td>
-              <td></td>
+              <Event event='Grab more needles' color='pink'/>
               <td></td>
               <td></td>
               <td></td>
@@ -72,9 +72,9 @@ const Calendar = () => {
           </tr>
           <tr> 
               <td className="time">1PM</td>
-              <td></td>
-              <td></td>
-              <td></td>
+              <Event event='Midday Hit (15mg fent) 💉' color='green'/>
+              <Event event='Midday Hit (15mg fent) 💉' color='green'/>
+              <Event event='Midday Hit (15mg fent) 💉' color='green'/>
               <td></td>
               <td></td>
               <td></td>
@@ -83,7 +83,7 @@ const Calendar = () => {
           <tr> 
               <td className="time">2PM</td>
               <td></td>
-              <td></td>
+              <Event event='Interview with journalists' color='blue'/>
               <td></td>
               <td></td>
               <td></td>
@@ -94,7 +94,7 @@ const Calendar = () => {
               <td className="time">3PM</td>
               <td></td>
               <td></td>
-              <td></td>
+              <Event event='Greet the homies' color='green'/>
               <td></td>
               <td></td>
               <td></td>
@@ -102,7 +102,7 @@ const Calendar = () => {
           </tr>
           <tr> 
               <td className="time">4PM</td>
-              <td></td>
+              <Event event='Watch Dragon Ball Z' color='green'/>
               <td></td>
               <td></td>
               <td></td>
@@ -112,9 +112,9 @@ const Calendar = () => {
           </tr>
           <tr> 
               <td className="time">5PM</td>
-              <td></td>
-              <td></td>
-              <td></td>
+              <Event event='Night High (30mg fent) 💊💉' color='pink'/>
+              <Event event='Night High (30mg fent) 💊💉' color='pink'/>  
+              <Event event='Night High (30mg fent) 💊💉' color='pink'/>
               <td></td>
               <td></td>
               <td></td>
