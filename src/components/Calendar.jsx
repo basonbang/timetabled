@@ -25,7 +25,7 @@ const Calendar = () => {
               <Event event='Fancy Breakfast (10mg fent) 🔥' color='green'/>
               <Event event='Morning Dose (20mg fent) 💊' color='pink'/>
               <Event event='Morning Dose (20mg fent) 💊' color='pink'/>
-              <Event event='Overdose 💀' color='red'/>
+              <Event event='Overdose 💀' color='red' location="Market Street"/>
               <td></td>
               <td></td>
               <td></td>
