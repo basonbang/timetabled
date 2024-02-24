@@ -30,3 +30,19 @@ td {
 .time {
   height: 40px;
 }
+
+.Event {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  color: white;
+}
+.pink {
+  background-color: #ff69b4; /* hot pink */
+}
+.blue {
+  background-color: #1e90ff; /* dodger blue */
+}
+.green {
+  background-color: #00ff7f; /* spring green */
+}
